@@ -11,3 +11,4 @@
 - It uses Yolo v8 segmentation model from Ultralytics.
 - Window version is not working properly. 
 - Set webcam number properly.
+![example](./exampleImg.jpg)
