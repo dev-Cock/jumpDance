@@ -1,0 +1,5 @@
+# No DS file
+*.DS_Store
+
+# No pt file 
+*.pt
